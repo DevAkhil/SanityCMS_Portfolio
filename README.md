@@ -1,11 +1,56 @@
-# Sanity Blogging Content Studio
+<h1 align="center">
+ 
+  <br>
+  Sanity CMS Portfolio
+  <br>
+</h1>
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+<h4 align="center">Content management system for my personal React Portfolio</h4>
 
-Now you can do the following things:
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- Check out the example frontend: [React/Next.js](https://github.com/sanity-io/tutorial-sanity-blog-react-next)
-- [Read the blog post about this template](https://www.sanity.io/blog/build-your-own-blog-with-sanity-and-next-js?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#credits">Credits</a> 
+</p>
+
+
+## Screenshots
+  
+  <img src="https://i.imgur.com/RCUKbty.png" width="100%"/>
+    <img src="https://i.imgur.com/tVJo3cX.png" width="100%"/>
+      <img src="https://i.imgur.com/0Gq8zIn.png" width="100%"/>
+          <img src="https://i.imgur.com/ATZEA9M.png" width="100%"/>
+
+
+
+## Key Features
+
+* Storage of portfolio, projects and graphic design work.
+* Easily accessible data via API call.
+* User friendly interface for creating posts.
+* Automatic saving of non published work.
+
+
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Visual Studio](https://visualstudio.microsoft.com/) installed on your computer. 
+
+```bash
+# Clone this repository
+$ git clone https://github.com/DevAkhil/Plumbing-Inventory.git
+
+# Open the repository in Visual Studio Code
+
+# Install dependencies
+$ npm install
+
+
+# Run the app
+$ npm start
+
+
+
+
+
+
