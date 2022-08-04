@@ -38,7 +38,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [V
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DevAkhil/Plumbing-Inventory.git
+$ git clone https://github.com/DevAkhil/SanityCMS_Portfolio.git
 
 # Open the repository in Visual Studio Code
 
